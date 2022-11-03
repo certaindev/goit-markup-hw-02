@@ -32,6 +32,7 @@ body {
 .menu,
 .contacts,
 .section ul,
+.filters,
 .cards {
   list-style: none;
 }
